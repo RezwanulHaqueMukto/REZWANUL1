@@ -34,3 +34,7 @@ I offer a range of services to bring your digital dreams to life:
 I am passionate about collaborating with clients to achieve their digital goals. Whether you have a project in mind or just want to chat, feel free to reach out. Let's create something remarkable together! 🌟🚀
 
 You can explore my portfolio and previous projects to witness my expertise firsthand. If you have any questions or want to discuss potential opportunities, please don't hesitate to contact me. Looking forward to connecting with you! 😊✉️
+
+# For business inquiries
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/REZWANUL1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rezwanul-haque-713b5b265//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/rezwanulhaque.mukto)  
+
