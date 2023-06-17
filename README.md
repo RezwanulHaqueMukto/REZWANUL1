@@ -1,6 +1,6 @@
 
 # Web and WordPress Developer 👨‍💻
-
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 ## Introduction 🌟
 
 Hello there! I'm a passionate web and WordPress developer with a knack for creating captivating and functional websites. My expertise lies in crafting seamless user experiences, utilizing cutting-edge technologies, and sprinkling a touch of creativity. 🎨✨
