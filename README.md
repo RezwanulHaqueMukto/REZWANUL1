@@ -36,5 +36,5 @@ I am passionate about collaborating with clients to achieve their digital goals.
 You can explore my portfolio and previous projects to witness my expertise firsthand. If you have any questions or want to discuss potential opportunities, please don't hesitate to contact me. Looking forward to connecting with you! 😊✉️
 
 # For business inquiries
-Email:rezwanulcontact@gmail.com
+rezwanulcontact@gmail.com
 
