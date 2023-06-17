@@ -1,11 +1,12 @@
 
 # Web and WordPress Developer 👨‍💻
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
 ## Introduction 🌟
 
 Hello there! I'm a passionate web and WordPress developer with a knack for creating captivating and functional websites. My expertise lies in crafting seamless user experiences, utilizing cutting-edge technologies, and sprinkling a touch of creativity. 🎨✨
 
-## Skills 🚀
+
+## Skills 🚀 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 Here are the superpowers I bring to the table:
 
@@ -18,7 +19,6 @@ Here are the superpowers I bring to the table:
 - **MySQL**: Designing and managing databases for efficient data storage.
 - **jQuery**: Simplifying DOM manipulation and enhancing user interactions.
 - **SCSS**: Harnessing the power of SCSS (Sass) to streamline CSS development.
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/REZWANUL1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Services Offered 🛠️
 
