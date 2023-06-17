@@ -17,7 +17,8 @@ Here are the superpowers I bring to the table:
 - **PHP**: Crafting server-side scripts for dynamic web functionalities.
 - **MySQL**: Designing and managing databases for efficient data storage.
 - **jQuery**: Simplifying DOM manipulation and enhancing user interactions.
-- **SCSS**: Harnessing the power of SCSS (Sass) to streamline CSS development. 
+- **SCSS**: Harnessing the power of SCSS (Sass) to streamline CSS development.
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/REZWANUL1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Services Offered 🛠️
 
