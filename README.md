@@ -19,6 +19,11 @@ Here are the superpowers I bring to the table:
 - **jQuery**: Simplifying DOM manipulation and enhancing user interactions.
 - **SCSS**: Harnessing the power of SCSS (Sass) to streamline CSS development.
 
+
+## Learning 😎
+ -**Vue.js**: A progressive JavaScript framework for building user interfaces. It allows you to create interactive and dynamic front-end applications.
+ -**Laravel**: A PHP framework for building web applications, providing tools and features for tasks like routing, database management, and authentication.
+
 ## Services Offered 🛠️
 
 I offer a range of services to bring your digital dreams to life:
