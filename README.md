@@ -21,8 +21,9 @@ Here are the superpowers I bring to the table:
 
 
 ## Learning 😎
- -**Vue.js**: A progressive JavaScript framework for building user interfaces. It allows you to create interactive and dynamic front-end applications.
- -**Laravel**: A PHP framework for building web applications, providing tools and features for tasks like routing, database management, and authentication.
+
+ - **Vue.js**: A progressive JavaScript framework for building user interfaces. It allows you to create interactive and dynamic front-end applications.
+ - **Laravel**: A PHP framework for building web applications, providing tools and features for tasks like routing, database management, and authentication.
 
 ## Services Offered 🛠️
 
