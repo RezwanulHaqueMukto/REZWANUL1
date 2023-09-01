@@ -1,4 +1,9 @@
-
+<pre>
+```python
+def hello_world():
+    print("Hello, World!")
+```
+</pre>
 # Web and WordPress Developer 👨‍💻
 
 ## Introduction 🌟
