@@ -20,9 +20,6 @@ Here are the superpowers I bring to the table:
 
 
 ## Learning 😎
-
- - **Vuejs**: A progressive JavaScript framework for building user interfaces. It allows you to create interactive and dynamic front-end applications.
- - **Laravel**: A PHP framework for building web applications, providing tools and features for tasks like routing, database management, and authentication.
  - **React**: Crafted by Facebook, is a dynamic JavaScript library for crafting user interfaces.
 
 ## Services Offered 🛠️
